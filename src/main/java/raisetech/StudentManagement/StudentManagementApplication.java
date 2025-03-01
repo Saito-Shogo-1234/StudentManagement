@@ -19,3 +19,5 @@ public class StudentManagementApplication {
 		return "Why Japanese people!?";
 	}
 }
+
+//授業が終わったらプッシュ
