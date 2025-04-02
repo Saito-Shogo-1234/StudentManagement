@@ -1,10 +1,10 @@
-package raisetech.StudentManagement.repository;
+package raisetech.Student.Management.repository;
 
 import java.util.List;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
-import raisetech.StudentManagement.data.Student;
-import raisetech.StudentManagement.StudentsCourses;
+import raisetech.Student.Management.data.Student;
+import raisetech.Student.Management.data.StudentsCourses;
 
 @Mapper
 public interface StudentRepository {
