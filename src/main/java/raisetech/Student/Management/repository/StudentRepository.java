@@ -10,7 +10,7 @@ import raisetech.Student.Management.data.Student;
 import raisetech.Student.Management.data.StudentsCourses;
 
 /**
- * 受講生テーブルと受講生コース情報テーブルと紐づくRepositoryです。
+ * 受講生テーブルと受講生コース情報テーブルと紐づくRepositoryです。　
  */
 @Mapper
 public interface StudentRepository {
